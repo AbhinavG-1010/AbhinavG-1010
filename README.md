@@ -17,7 +17,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhinav-gupta-225b35193/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhinav-gupta-225b35193/" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:guptaabhinav2205@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/guptaabhinav2205@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/AbhinavG-1010" target="blank"><img align="center" src="https://img.shields.io/badge/AbhinavG-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
