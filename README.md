@@ -4,9 +4,9 @@
 <hr>
 <h1 align="center">I'm <a href="https://abhinavg-1010.github.io/">Abhinav Gupta<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1 align="center">About Me! 😎</h1>
+<h1 align="center">About Me!</h1>
 
-- 🏫: I'm a final-year student at Vellore Institute of Technology, Vellore studying Computer Science.
+- 🏫: I'm a grad student at the University of Southern California studying Computer Science.
 - 🔭: I’m currently working on many Machine Learning projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 💬: Ask me about Data Analysis, Artificial Intelligence, and Machine Learning algorithms. 📊📈🤖🧠
