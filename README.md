@@ -7,9 +7,9 @@
 <h1 align="center">About Me!</h1>
 
 - 🏫: I'm a grad student at the University of Southern California studying Computer Science.
-- 🔭: I’m currently working on many Machine Learning projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 💬: Ask me about Data Analysis, Artificial Intelligence, and Machine Learning algorithms. 📊📈🤖🧠
+- 🔭: I’m currently working on data science projects.
+- 🌱: I am fascinated by data analysis and visualization. 🧠💻🤖
+- 💬: Ask me about all things technology, I never get bored of it. 📊📈🤖🧠
 - ⚡  Fun fact: I've started learning the guitar!🎸🎶
   
 <hr>
